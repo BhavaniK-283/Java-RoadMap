@@ -15,5 +15,6 @@ public class StaticVariable {
 
         System.out.println("S1\'s age is: " + s1.age);
         System.out.println("S2\'s age is: " + s2.age);
+        System.out.println("S2\'s age is: " + s2.age);
     }
 }
